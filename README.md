@@ -1,7 +1,6 @@
 
 
 
-My name is Vitor Salazar Cicote.
 
 
 
