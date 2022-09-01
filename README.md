@@ -1,4 +1,4 @@
-Vitor S.C
+Vitor S.
 
 Devepoler
 
