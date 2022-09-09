@@ -32,7 +32,7 @@ Developer
 </div>
  
   <br>
-</div>
+
 
 
 
@@ -40,7 +40,7 @@ Developer
     
     <a href="https://www.linkedin.com/in/vitor-salazar-cicote-858927202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+
  
      
    
