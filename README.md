@@ -1,7 +1,6 @@
 Vitor Salazar Cicote
 
 
-Developer
 
 
 
