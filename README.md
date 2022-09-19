@@ -1,6 +1,6 @@
 Vitor Salazar Cicote   
 
-Developer
+
 
 
 <div align="center">
