@@ -2,7 +2,7 @@ Vitor S.  Cicote
     
 
 
-Developer. 
+Developer
  
 
 
