@@ -184,7 +184,7 @@ Developer
    <br><br>
 
 <div align="center">
- <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
+ <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=vtrsc&theme=tokyo-night&count_private=true&hide_border=true">
 </details>
 </h2>
 
