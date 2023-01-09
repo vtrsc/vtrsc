@@ -183,7 +183,13 @@ Developer
     <a href="https://www.linkedin.com/in/vitor-salazar-cicote-858927202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <br><br>
 
+<h2></h2>
+<h2 align="center">
+<details open>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 
+</details>
+</h2>
 
   </div>
      
