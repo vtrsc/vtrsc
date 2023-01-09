@@ -55,7 +55,7 @@ Developer
   <tr>
     <td>
     <a href="https://github.com/vtrsc/kubernets" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtrsc&repo=mini-portfolio&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vtrsc&repo=mini-kubernets&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
