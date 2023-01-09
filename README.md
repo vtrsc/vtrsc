@@ -54,14 +54,14 @@ Developer
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
+    <a href="https://github.com/vtrsc/kubernets" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/rocketnotes" target="_blank">
+    <a href="https://github.com/vtrsc/flutter" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true">
   </a>
     </td>
@@ -75,7 +75,7 @@ Developer
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
+    <a href="https://github.com/vtrsc/Portifolio" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true">
   </a>
     </td>
