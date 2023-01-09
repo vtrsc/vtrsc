@@ -183,11 +183,8 @@ Developer
     <a href="https://www.linkedin.com/in/vitor-salazar-cicote-858927202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <br><br>
 
-<h2></h2>
-<h2 align="center">
-<details open>
-<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
-
+<div align="center">
+ <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=leoszm&theme=tokyo-night&count_private=true&hide_border=true">
 </details>
 </h2>
 
