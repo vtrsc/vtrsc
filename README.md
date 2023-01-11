@@ -14,7 +14,7 @@ Developer
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtrsc&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
- 
+ <p align="center">
  <img align="center" alt="vitor-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
           
   <img align="center" alt="vitor-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -27,7 +27,7 @@ Developer
   <img align="center" alt="vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vitor-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
-
+</p>
 
  
 </div>
@@ -65,7 +65,9 @@ Developer
     
         
 <div>
-
+   <div>
+      <img src="https://github-profile-trophy.vercel.app/?username=vtrsc&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+   </div>
 
    <br><br>
 
