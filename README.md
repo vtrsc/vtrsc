@@ -1,5 +1,4 @@
-Vitor S.  Cicote.  
-    
+
 
 
 Developer
