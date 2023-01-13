@@ -49,7 +49,7 @@ Developer
    <br><br>
 
 <div align="center">
- <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=vtrsc&theme=tokyo-night&count_private=true&hide_border=true">
+ <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=vtrsc&custom_title=vtrsc's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true">
 </details>
 </h2>
 
