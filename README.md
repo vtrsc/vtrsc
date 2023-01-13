@@ -1,10 +1,10 @@
 
    
   
-<h2 align="center">
+<p align="center">
 <img src= "./images/borderseperator.gif"/> 
+</p>
 
-</h2>
           
 
  
