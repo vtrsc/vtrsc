@@ -31,7 +31,7 @@
  <br>
 
  <div align="center">
-            <img src="https://streak-stats.demolab.com?user=vtrsc&theme=sea&hide_border=true&background=0D1117&sideNums=E17D26&currStreakNum=E17D26&ring=0079fa&fire=0079fa&sideLabels=E17D26&dates=E17D26&currStreakLabel=E17D26&stroke=E17D26" />
+            <img src="https://streak-stats.demolab.com?user=vtrsc&theme=sea&hide_border=true&background=0D1117&sideNums=E17D26&currStreakNum=E17D26&ring=0079fa&fire=E17D26&sideLabels=E17D26&dates=E17D26&currStreakLabel=E17D26&stroke=E17D26" />
 
 <div> 
  
