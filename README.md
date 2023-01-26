@@ -31,7 +31,7 @@
  <br>
 
  <div align="center">
-            <img src="https://streak-stats.demolab.com?user=vtrsc&theme=sea&hide_border=true&background=0D1117&sideNums=0079fa&currStreakNum=0079fa&ring=0079fa&fire=E17D26&sideLabels=0079fa&dates=E17D26&currStreakLabel=0079fa&stroke=0079fa" />
+            <img src="https://streak-stats.demolab.com?user=vtrsc&theme=sea&hide_border=true&background=0D1117&sideNums=0079fa&currStreakNum=0079fa&ring=0079fa&fire=0079fa&sideLabels=0079fa&dates=0079fa&currStreakLabel=0079fa&stroke=0079fa" />
 
 <div> 
  
@@ -49,7 +49,7 @@
    <br><br>
 
 <div align="center">
- <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=vtrsc&custom_title=vtrsc's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true">
+ <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=vtrsc&custom_title=vtrsc's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=0079fa&point=0079fa&area=true&hide_border=true">
 </details>
 </h2>
 
