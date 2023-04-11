@@ -67,6 +67,7 @@
 
    
 <p align="center">
+<br>
 <img src= "./images/borderseperator.gif"/> 
 </p>
 
