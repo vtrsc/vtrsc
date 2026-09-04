@@ -43,7 +43,7 @@
         
 <div>
    <div>
-      <img src="https://github-profile-trophy.vercel.app/?username=vtrsc&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+
    </div>
 
    <br><br>
